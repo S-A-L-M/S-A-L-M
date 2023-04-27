@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **santiagolozman@gmail.com**
 
-- 📄 Know about my experiences [YESSIR](YESSIR)
+- 📄 Know about my experiences [YESSIR](https://github.com/winsignares/Odontograma.git)
 
 - ⚡ Fun fact **Invite me a Mondongo Soup**
 
