@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **santiagolozman@gmail.com**
 
-- 📄 Know about my experiences [YESSIR](https://github.com/winsignares/Odontograma.git)
+- 📄 Know about my experiences [
+Odontogram using FLASK, BOOTSTRAP as Framework and mysql as language dedicated to BD using XAMPP free version software](https://github.com/winsignares/Odontograma.git)
 
 - ⚡ Fun fact **Invite me a Mondongo Soup**
 
