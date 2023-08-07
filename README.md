@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [SIBAO-Odontograma-Proyect](https://github.com/S-A-L-M/SIBAO-Odontograma-Proyect.git)
+- 🔭 I’m currently working on [Healthy.exe](https://github.com/S-A-L-M/Healthy.exe)
 
 - 🌱 I’m currently learning **Python, JS, HTML 5**
 
