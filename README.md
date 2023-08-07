@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Healthy.exe](https://github.com/S-A-L-M/Healthy.exe)
 
-- 🌱 I’m currently learning **Python, JS, HTML 5**
+- 🌱 I’m currently learning **Python, JS, DART 5**
 
 - 👯 I’m looking to collaborate on [SIBS](https://github.com/winsignares/SIBS.git)
 
