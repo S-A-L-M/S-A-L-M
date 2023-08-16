@@ -70,10 +70,10 @@ Odontogram using FLASK, BOOTSTRAP as Framework and mysql as language dedicated t
   </p>
 
 ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S-A-L-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
