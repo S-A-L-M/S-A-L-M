@@ -30,26 +30,7 @@ Odontogram using FLASK, BOOTSTRAP as Framework and mysql as language dedicated t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-## Profile Views
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
+<a href="https://discord.gg/Dɪsᴄɪᴘʟᴇツ#8034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dɪsᴄɪᴘʟᴇツ#8034" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Languages and Tools:</h3>
